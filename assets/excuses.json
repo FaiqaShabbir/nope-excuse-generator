@@ -1,0 +1,290 @@
+{
+  "excuses": [
+    {
+      "text": "I can't come, my cat just started therapy.",
+      "category": "general"
+    },
+    {
+      "text": "I'm currently in a staring contest with my ceiling fan.",
+      "category": "general"
+    },
+    {
+      "text": "My plants are emotionally dependent on me today.",
+      "category": "general"
+    },
+    {
+      "text": "I got trapped under my blanket and it's a trust issue now.",
+      "category": "general"
+    },
+    {
+      "text": "Mercury is in reverse gear again.",
+      "category": "general"
+    },
+    {
+      "text": "I can't go out — my WiFi needs me.",
+      "category": "general"
+    },
+    {
+      "text": "My stomach is full of regret and biryani.",
+      "category": "general"
+    },
+    {
+      "text": "I'm currently negotiating with my bed about getting up.",
+      "category": "general"
+    },
+    {
+      "text": "My phone battery is at 1% and I'm emotionally attached to it.",
+      "category": "general"
+    },
+    {
+      "text": "I'm in the middle of a very important conversation with my reflection.",
+      "category": "general"
+    },
+    {
+      "text": "My Netflix account is having separation anxiety.",
+      "category": "general"
+    },
+    {
+      "text": "I'm currently being held hostage by my couch.",
+      "category": "general"
+    },
+    {
+      "text": "My brain is currently updating to version 2.0.",
+      "category": "general"
+    },
+    {
+      "text": "I'm in a committed relationship with my pajamas right now.",
+      "category": "general"
+    },
+    {
+      "text": "My motivation is currently on vacation in Bali.",
+      "category": "work"
+    },
+    {
+      "text": "My laptop is having an existential crisis.",
+      "category": "work"
+    },
+    {
+      "text": "I'm currently debugging my life choices.",
+      "category": "work"
+    },
+    {
+      "text": "My coffee hasn't kicked in yet, and neither have I.",
+      "category": "work"
+    },
+    {
+      "text": "I'm in a meeting with my inner procrastinator.",
+      "category": "work"
+    },
+    {
+      "text": "My productivity is currently loading...",
+      "category": "work"
+    },
+    {
+      "text": "I'm experiencing technical difficulties with my motivation.",
+      "category": "work"
+    },
+    {
+      "text": "My brain is currently in airplane mode.",
+      "category": "work"
+    },
+    {
+      "text": "I'm currently rebooting my work ethic.",
+      "category": "work"
+    },
+    {
+      "text": "My gym clothes are still in the dryer from last week.",
+      "category": "gym"
+    },
+    {
+      "text": "I'm currently in a relationship with my couch.",
+      "category": "gym"
+    },
+    {
+      "text": "My motivation is currently on a coffee break.",
+      "category": "gym"
+    },
+    {
+      "text": "I'm currently doing mental reps.",
+      "category": "gym"
+    },
+    {
+      "text": "My gym membership is having trust issues.",
+      "category": "gym"
+    },
+    {
+      "text": "I'm currently working on my inner strength.",
+      "category": "gym"
+    },
+    {
+      "text": "My workout is currently buffering.",
+      "category": "gym"
+    },
+    {
+      "text": "I'm currently doing research on the benefits of rest days.",
+      "category": "gym"
+    },
+    {
+      "text": "My family is currently having a group therapy session.",
+      "category": "family"
+    },
+    {
+      "text": "I'm currently mediating between my siblings.",
+      "category": "family"
+    },
+    {
+      "text": "My mom is having a crisis about my life choices.",
+      "category": "family"
+    },
+    {
+      "text": "I'm currently explaining to my parents what I do for a living.",
+      "category": "family"
+    },
+    {
+      "text": "My family is currently having an intervention for my phone addiction.",
+      "category": "family"
+    },
+    {
+      "text": "I'm currently being interrogated about my dating life.",
+      "category": "family"
+    },
+    {
+      "text": "My parents are currently having a meeting about my future.",
+      "category": "family"
+    },
+    {
+      "text": "I'm currently in a staring contest with my ex's Instagram.",
+      "category": "dating"
+    },
+    {
+      "text": "My dating life is currently under maintenance.",
+      "category": "dating"
+    },
+    {
+      "text": "I'm currently having a conversation with my dating apps.",
+      "category": "dating"
+    },
+    {
+      "text": "My heart is currently updating its privacy settings.",
+      "category": "dating"
+    },
+    {
+      "text": "I'm currently doing research on healthy relationships.",
+      "category": "dating"
+    },
+    {
+      "text": "My love life is currently in beta testing.",
+      "category": "dating"
+    },
+    {
+      "text": "I'm currently having a meeting with my inner romantic.",
+      "category": "dating"
+    },
+    {
+      "text": "My social battery is currently at 1%.",
+      "category": "social"
+    },
+    {
+      "text": "I'm currently in a relationship with my introvert side.",
+      "category": "social"
+    },
+    {
+      "text": "My social skills are currently updating.",
+      "category": "social"
+    },
+    {
+      "text": "I'm currently having a conversation with my anxiety.",
+      "category": "social"
+    },
+    {
+      "text": "My people skills are currently in airplane mode.",
+      "category": "social"
+    },
+    {
+      "text": "I'm currently doing research on human interaction.",
+      "category": "social"
+    },
+    {
+      "text": "My conversation skills are currently buffering.",
+      "category": "social"
+    },
+    {
+      "text": "I'm currently having a meeting with my inner extrovert.",
+      "category": "social"
+    },
+    {
+      "text": "My wallet is currently on a diet.",
+      "category": "money"
+    },
+    {
+      "text": "I'm currently having a conversation with my bank account.",
+      "category": "money"
+    },
+    {
+      "text": "My budget is currently in therapy.",
+      "category": "money"
+    },
+    {
+      "text": "I'm currently doing research on financial responsibility.",
+      "category": "money"
+    },
+    {
+      "text": "My money is currently on vacation.",
+      "category": "money"
+    },
+    {
+      "text": "I'm currently having a meeting with my inner accountant.",
+      "category": "money"
+    },
+    {
+      "text": "My savings account is currently having trust issues.",
+      "category": "money"
+    },
+    {
+      "text": "I'm currently in a relationship with my overdraft.",
+      "category": "money"
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Excuses",
+      "emoji": "🎲"
+    },
+    {
+      "id": "general",
+      "name": "General",
+      "emoji": "🤷‍♂️"
+    },
+    {
+      "id": "work",
+      "name": "Work",
+      "emoji": "💼"
+    },
+    {
+      "id": "gym",
+      "name": "Gym",
+      "emoji": "💪"
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "id": "dating",
+      "name": "Dating",
+      "emoji": "💕"
+    },
+    {
+      "id": "social",
+      "name": "Social",
+      "emoji": "🎉"
+    },
+    {
+      "id": "money",
+      "name": "Money",
+      "emoji": "💰"
+    }
+  ]
+} 
